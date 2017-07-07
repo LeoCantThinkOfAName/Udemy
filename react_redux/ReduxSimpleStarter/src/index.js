@@ -19,7 +19,7 @@ class App extends Component {
             selectedVideo: null
         };
 
-        this.videoSearch('鄭嘉瑜');
+        this.videoSearch('MEOW');
     };
 
     videoSearch(term) {
