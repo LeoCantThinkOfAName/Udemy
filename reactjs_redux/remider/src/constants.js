@@ -1,0 +1,3 @@
+export const ADD_REMIDER = 'ADD_REMIDER';
+export const DELETE_REMIDER = 'DELETE_REMIDER';
+export const CLEAR_REMINDERS = 'CLEAR_REMIDER';
